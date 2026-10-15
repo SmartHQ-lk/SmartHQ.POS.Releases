@@ -1,0 +1,1 @@
+# SmartHQ.POS.Releases
